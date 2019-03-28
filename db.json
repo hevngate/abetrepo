@@ -1,6 +1,6 @@
 {
   "posts": [
-{
+{  "id": 1,
    "casaAccountInquiryResponse":{
       "soaHeader":{
          "messageVersion":"1.0",
